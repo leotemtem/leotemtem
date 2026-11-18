@@ -19,7 +19,7 @@
 <b>building</b><br>
 <a href="https://status.leotem.dev"><b>Pulse</b></a>: a downdetector for developer tools. It probes 19 APIs every minute from 3 AWS regions and reports an outage only when the regions agree. <a href="https://leotem.dev/projects/pulse/">How it works</a><br>
 <a href="https://five-nines.pages.dev"><b>Five Nines</b></a>: a 2D infrastructure tycoon game. You start with a homelab in a garage and grow it into a multi-region platform. Private playtest.<br>
-<a href="https://github.com/leotemtem/RepoMonster"><b>RepoMonster</b></a>: a self-hosted review gate for GitHub and GitLab, with deterministic checks, RAG and an LLM.<br>
+<a href="https://github.com/leotemtem/RepoMonster"><b>RepoMonster</b></a>: a self-hosted review and security gate for GitHub and GitLab, with deterministic checks, RAG and an LLM.<br>
 <a href="https://github.com/leotemtem/MoneyFlow"><b>MoneyFlow</b></a>: local-first personal finance analysis for students.<br>
 <a href="https://github.com/TwiN/gatus/pull/1864"><b>Gatus</b></a>: open-source contributor, PR #1864 merged upstream.
 </td>
